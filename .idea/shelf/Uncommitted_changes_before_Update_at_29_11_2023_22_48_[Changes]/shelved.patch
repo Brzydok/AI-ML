@@ -1,0 +1,6 @@
+diff --git a/jpg_reader.py b/JPG_READER/jpg_reader.py
+rename from jpg_reader.py
+rename to JPG_READER/jpg_reader.py
+diff --git a/README.md b/JPG_READER/README.md
+rename from README.md
+rename to JPG_READER/README.md
