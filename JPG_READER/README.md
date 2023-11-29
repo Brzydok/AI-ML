@@ -13,4 +13,4 @@ This Python script utilizes the Tesseract OCR (Optical Character Recognition) en
 
    ```bash
    git clone https://github.com/Brzydok/AI-ML.git
-   cd AI-ML
+   cd AI-ML/JPG_READER
